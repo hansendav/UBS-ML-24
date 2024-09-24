@@ -35,7 +35,7 @@ def main(config_file):
     with open(config_file, 'r') as file:
         config = yaml.safe_load(file)
     
-    dest_folder = config.get('dest_folder', './downloads')
+    dest_folder = config.get('dest_folder', './downloads') # default to ./downloads if dest_folder is not specified
     urls = config.get('urls', {})
     
     if not urls:
@@ -50,6 +50,8 @@ def main(config_file):
             extract_zip(zip_path, dest_folder, key)
             os.remove(zip_path)
             print(f"Finished processing {url}")
+
+    print(f"Download and extraction complete. Files saved to {dest_folder}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Download and extract zip files from URLs listed in a config file.')
