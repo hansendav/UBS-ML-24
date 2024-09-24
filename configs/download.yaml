@@ -1,4 +1,7 @@
-# Config data download
+# Config file for the download_dbs.py script
+# Usage: python download_dbs.py --config_file config.yml
+# Change the values of the variables below to download the desired datasets
+
 dest_folder: '../datasets/'
 
 urls: 
