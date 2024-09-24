@@ -1,4 +1,6 @@
 # Python script to download and extract zip files from URLs listed in a config file.
+# Author: David Hansen 
+# Date: 2024-09-24
 # Usage: python download_dbs.py --config_file config.yml
 # Config file should be in YAML format and contain the following
 # dest_folder: path to the folder where the zip files will be downloaded and extracted
