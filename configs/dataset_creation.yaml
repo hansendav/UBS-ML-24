@@ -1,0 +1,11 @@
+# config for dataset creation
+
+name: 'ml_bwi_dataset'
+
+data_dir: '../datasets/'
+datasets: 
+  'bwi_change': 'bwi_2002-2012.mdb'
+  'bwi_2002': 'bwi_2002.mdb'
+  'bwi_metadata': 'bwi_metadata.mdb'
+  'climate': 'climate.sqlite'
+  'soil': 'soil.mdb'
