@@ -1,0 +1,71 @@
+'ecke': |
+  SELECT 
+    b0_ecke.Tnr AS Tnr,
+    b0_ecke.Enr AS Enr,
+    b0_ecke.Gexp AS Gexp,
+    b0_ecke.GExpKl4 AS GExpKl4,
+    b0_ecke.GExpKl8 AS GExpKl8,
+    b0_ecke.Gform AS Gform,
+    b0_ecke.Gneig AS Gneig,
+    b0_ecke.GneigKl5 AS GneigKl5,
+    b0_ecke.natHoe AS natHoe, 
+    b0_ecke.potNatWg AS potNatWg
+  FROM 
+    b0_ecke;
+
+'tab': |
+  SELECT 
+    b0_tab.Tnr AS Tnr,
+    b0_tab.HoeheNN AS HoeheNN,
+    b0_tab.hnnSt100 AS hnnSt100,
+    b0_tab.hnnSt250 AS hnnSt250
+  FROM 
+    b0_tab;
+
+'bwi_2002_baeume': |
+  SELECT 
+    *
+  FROM
+    b2_baeume;
+
+'bestand': |
+  SELECT
+    Tnr,
+    Enr,
+    Zaun, 
+    Be,
+    NatNaeheHaupt, 
+    NatNaeheLT7cm,
+    ForestType,
+    RAN,
+    Situation,
+    TOT
+  FROM 
+    b2_bestand;
+
+'wzp': |
+  SELECT
+    Tnr,
+    Enr,
+    Bnr,
+      Kaefer,
+      jSchael,
+      aeSchael,
+      Bkl,
+      Ast,
+      tot,
+      AnzSchad,
+      Ruecke,
+      Specht,
+      Pilz,
+      Harz 
+  FROM 
+    b2_wzp;
+
+'bestock': |
+  SELECT  
+    Tnr, 
+    Enr,
+    BestockAb
+  FROM 
+    b2_bestock;
