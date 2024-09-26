@@ -8,6 +8,11 @@ datasets:
   'bwi_metadata': 'bwi_metadata.mdb'
   'climate': 'climate.sqlite'
   'soil': 'soil.mdb'
+query_dir:
+  'bwi_change': '../configs/bwi_2002-2012_queries.yaml'
+  'bwi_2002': '../configs/bwi_2002_queries.yaml'
+  'climate':  '../configs/climate_queries.yaml'
+  'soil': '../configs/soil_queries.yaml'
   
 
 

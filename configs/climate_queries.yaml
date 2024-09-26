@@ -1,0 +1,12 @@
+'meta': |
+  SELECT 
+    * 
+  FROM 
+    z_col;
+
+'bioclim_variables': 
+  SELECT 
+    * 
+  FROM 
+    bioclim_variables;
+

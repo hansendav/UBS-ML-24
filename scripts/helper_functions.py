@@ -3,7 +3,7 @@ import sqlalchemy as sa
 import pandas as pd 
 from sqlalchemy import create_engine
 
-import warings 
+import warnings
 
 def get_conn_url_from_path(file_path):
     """Returns a connection URL for filedatabases 
@@ -84,3 +84,15 @@ def query_to_df(engine, config, key_to_query):
     df = pd.read_sql(formatted_query, engine)
 
     return df
+
+def instanciate_engine(dataset_config_key):
+    path = os.path.join(config['data_dir'], config['datasets'][dataset_config_key])
+    return sa.create_engine(get_conn_url_from_path(path))
+
+def check_for_duplicates(df, delete_duplicates=False):
+    num_duplicates = df.duplicated().sum()
+    print(f"Number of duplicate rows: {num_duplicates}")
+
+    if delete_duplicates:
+        df.drop_duplicates(inplace=True)
+        print("Duplicates removed.")
