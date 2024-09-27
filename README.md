@@ -3,10 +3,10 @@ This repository includes all necessary scripts to reproduce a custom dataset
 based on the national forest invetory data of Germany. 
 
 ## Prerequisites 
-The dataset is generated using different filedatabses that can be downloaded 
-from the servers of the Thuenen Institut. Since the most databases are distributed 
-as Microsoft Acces filedatabases the scripts are only tested on a Windows machine. 
-This makes sure that the necessary ODB drivers are preinstalled. 
+The dataset is generated using different MS Access and SQLite filedatabases that can be downloaded 
+from the servers of the [Thünen Institut](https://bwi.info/Download/de/). It is thus necessary,
+to run the following scripts on a machine that has drivers for both filesystems (esp. ODBC for 
+Mircosoft Access). 
 
 
 ## Download of the databases 
@@ -29,3 +29,6 @@ python create_bwi_ml_dataset.py
 ```
 
 You will find the dataset in the ``datasets`` directory as well. 
+
+## Documentation 
+You can find a summary and explanation of the features in the ``documentation`` directory. 
