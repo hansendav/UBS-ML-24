@@ -28,4 +28,4 @@ Next, we create the dataset. For this run the following command, again in the
 python create_bwi_ml_dataset.py
 ```
 
-You will find the dataset in the ```datasets`` directory as well. 
+You will find the dataset in the ``datasets`` directory as well. 
