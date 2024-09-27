@@ -1,4 +1,9 @@
-# config for dataset creation
+# Config file for the create_bwi_ml_dataset.py script 
+# Usage: python create_bwi_ml_dataset.py 
+# Change the values of the variables below to change paths to databases and 
+# the output filename 
+# Author: David Hansen 
+# Date: 27/07/2024
 
 name: 'ml_bwi_dataset'
 data_dir: '../datasets/'

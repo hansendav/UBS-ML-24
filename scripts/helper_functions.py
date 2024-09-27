@@ -1,7 +1,13 @@
+# Various helper functions for the create_bwi_ml_dataset.py script
+# Author: David Hansen 
+# Date: 27/09/2024
+
 import os 
 import sqlalchemy as sa 
 import pandas as pd 
 from sqlalchemy import create_engine
+
+import yaml
 
 import warnings
 
@@ -26,7 +32,7 @@ def get_conn_url_from_path(file_path):
         query={"odbc_connect": connection_string}
         )
     elif ext == '.sqlite':
-        connection_url = rf"sqlite:///{path}"
+        connection_url = rf"sqlite:///{file_path}"
 
     return connection_url
 
@@ -58,7 +64,10 @@ def calculate_custom_features_from_groups(df, group_by_column, process_function,
     group_by_column (str): The column name to group by.
     process_function (function): The function to apply to each group.
 
-    Returns:
+    Returns:bioclim =  query_to_df(engine, config['query_dir']['climate'], 'bioclim_variables')
+bioclim = bioclim[(bioclim['year_first'] == 2001) & (bioclim['year_last'] == 2010)]
+bioclim.rename(columns={'tnr': 'Tnr',
+                                    'enr': 'Enr'}, inplace=True)
     pd.DataFrame: A DataFrame with the processed results.
     """
     # Group the DataFrame by the specified column

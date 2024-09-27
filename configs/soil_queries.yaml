@@ -24,7 +24,7 @@
   FROM 
     02_KARTIEREINHEITEN;
 
-'feldkapazität': | 
+'feldkapazitaet': | 
   SELECT
     TNR,
     ENR,

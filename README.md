@@ -9,15 +9,23 @@ as Microsoft Acces filedatabases the scripts are only tested on a Windows machin
 This makes sure that the necessary ODB drivers are preinstalled. 
 
 
-# Download of the databases 
-Using your prefered shell that is allows to execute Python navigate to the 
+## Download of the databases 
+Using your prefered shell that allows to execute Python scripts navigate to the 
 repository and the scripts folder. Use the following command to download 
-all files.
+all files from here.
 
 ```
-python downloads_dbs.py --config config.yaml
+python downloads_dbs.py --config '../configs/download.yaml'
+```
+After that you will find all filedatabses in the ``datasets`` directory. 
+
+## Dataset creation 
+
+Next, we create the dataset. For this run the following command, again in the 
+``scripts`` directory: 
+
+```
+python create_bwi_ml_dataset.py
 ```
 
-You will find the databases in the created datasets folder of the repository. 
-
-# Dataset creation 
+You will find the dataset in the ```datasets`` directory as well. 
