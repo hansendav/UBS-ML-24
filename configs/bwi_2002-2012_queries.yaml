@@ -1,0 +1,17 @@
+'b23_baeume_m_s': |
+  SELECT
+    Tnr,
+    Enr, 
+    Bnr,
+    Al_baDiff,
+    BhdDiff,
+    HoeheDiff,
+    GDiff,
+    VolRDiff,
+    VolEDiff,
+    vVolEDiff,
+    Biom_oDiff,
+    Biom_uDiff,
+    Biov_oDiff
+  FROM 
+    b23_baeume_m_s;
