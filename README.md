@@ -17,11 +17,11 @@ all files from here.
 ```
 python downloads_dbs.py --config '../configs/download.yaml'
 ```
-After that you will find all filedatabses in the ``datasets`` directory. 
+You will now find all filedatabses in the ``datasets`` directory. 
 
 ## Dataset creation 
 
-Next, we create the dataset. For this run the following command, again in the 
+Next, we create the dataset. Run the following command, again in the 
 ``scripts`` directory: 
 
 ```
