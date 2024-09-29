@@ -6,7 +6,7 @@ based on the national forest invetory data of Germany.
 The dataset is generated using different MS Access and SQLite filedatabases that can be downloaded 
 from the servers of the [Thünen Institut](https://bwi.info/Download/de/). It is thus necessary
 to run the following scripts on a machine that has drivers for both filesystems (esp. ODBC for 
-Mircosoft Access). 
+Mircosoft Access) installed. 
 
 
 ## Download of the databases 
