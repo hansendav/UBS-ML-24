@@ -1,0 +1,9 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_SituationAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",,,9999
+0,"0","keine","none","keine","none",,,9999
+1,"1","Waldbrand","forest fire","Waldbrand","forest fire",,,9999
+2,"2","Sturmschaden","storm damage","Sturmschaden","storm damage",,,9999
+3,"3","Schneebruch","snow breakage","Schneebruch","snow-break",,,9999
+4,"4","Immisionssch‰den","immission damage","Immisionssch‰den","damage by pollution",,,9999
+5,"5","Insektenfraﬂ","insect feeding","Insektenfraﬂ","damage by insects",,,9999
+9,"9","sonst. Sch‰digung","other damages","sonstige Sch‰digung","other damage",,,9999

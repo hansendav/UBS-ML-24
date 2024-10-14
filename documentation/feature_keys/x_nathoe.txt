@@ -1,0 +1,7 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","Zu_nat_hoeAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",,,,0,0,9999
+1,"1","planar","planar","planar","planar",,,,1,1,9999
+2,"2","kollin","colline","kollin","hilly",,,,1,1,9999
+3,"3","submontan","submontane","submontan","submontane",,,,1,1,9999
+4,"4","montan","montane","montan","montane",,,,1,1,9999
+5,"5","hochmont./subalp.","high-mont./sub-alp.","hochmontan / subalpin","high montane / subalpine",,,,1,1,9999

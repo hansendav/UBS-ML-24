@@ -1,0 +1,12 @@
+"Icode","Acode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_GrGr3","Zu_GrGr4","Zu_GrGr5","Zu_Gr50bisLT7cm","zu_GrGrAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",,,-1,,,,9999
+100,"100","20 bis < 50 cm Höhe","20 to < 50 cm high","20 bis < 50 cm Höhe","20 to < 50 cm high",100,,129,,125,,9999
+101,"101","50 - 130cm Höhe","50-130cm high","50 -130 cm Höhe","50 - 130 cm high",101,,129,101,125,120,9999
+102,"102",">130cm Höhe, < 7 cm BHD",">130cm high, < 7 cm dbh","über 130 cm Höhe, kleiner 7cm BHD","over 130 cm high, less than 7 cm dbh",127,,129,102,128,120,9999
+103,"103","7,0 - 9,9 cm BHD","7,0 - 9,9 cm dbh","von 7,0 bis 9,9 cm BHD","from 7.0 to 9.9 cm dbh",131,,149,130,130,,9999
+104,"104","10 - 19,9 cm BHD","10 - 19,9 cm dbh","von 10,0 bis 19,9 cm BHD","from 10.0 to 19.9 cm dbh",132,,149,130,130,,9999
+105,"105","20 - 29,9 cm BHD","20 - 29,9 cm dbh","von 20,0 bis 29,9 cm BHD","from 20.0 to 29.9 cm dbh",141,,149,140,140,,9999
+106,"106","30 - 39,9 cm BHD","30 - 39,9 cm dbh","von 30,0 bis 39,9 cm BHD","from 30.0 to 39.9 cm dbh",142,,149,140,140,,9999
+107,"107","40 - 49,9 cm BHD","40 - 49,9 cm dbh","von 40,0 bis 49,9 cm BHD","from 40 to 49.9 cm dbh",143,,149,140,140,,9999
+108,"108","50 - 59,9 cm BHD","50 - 59,9 cm dbh","von 50,0 bis 59,9 cm BHD","from 50.0 to 59.9 cm dbh",144,,149,140,150,,9999
+109,"109",">= 60cm BHD",">= 60cm dbh","ab 60 cm BHD","from 60 cm dbh",145,,149,140,150,,9999

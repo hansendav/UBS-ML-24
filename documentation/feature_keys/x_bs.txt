@@ -1,0 +1,8 @@
+"ICode","Acode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","Bestock","Wzp","P175","P100","Be","Hoehe","Zu_BsGrWzp","Zu_BsGr0","Zu_BsGr1","Zu_BsGr2","Zu_BsAlle","Zu_BsHbPl","Zu_BsHb"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,0,0,0,,,,,,,,,-1,,9999,,
+0,"0","Plenterwald","plenter forest","keine Zuordnung möglich (Plenterwald)","no allocation possible (selection forest)",1001,,1,1,1,1,1,1,1,"2","0",1001,100,60,1000,9999,1000,
+1,"1","Hauptbestand","principal stand","Hauptbestand","main stand",1002,,1,1,1,1,1,1,1,,"1",1001,100,10,1000,9999,1000,100
+2,"2","Unterstand","under storey","Unterstand","lower storey",2001,,1,1,1,1,1,1,1,,"1",2002,200,50,2000,9999,,
+3,"3","Oberstand","upper storey","Oberstand","upper storey",2002,,1,1,1,1,1,0,0,,"1",2003,300,50,2000,9999,,
+4,"4","Verjüngung unter Schirm","regeneration/shelterwood","Verjüngung unter Schirm","regeneration under canopy of overwood",2003,,1,1,1,0,0,1,1,,"0",,400,50,2000,9999,,
+9,"9","liegend",,"liegender Baum / sehr schräg stehend","lying tree / very diagonal position",2004,,0,0,1,0,1,0,0,,"0",2002,200,50,2000,9999,,
