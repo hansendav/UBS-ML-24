@@ -71,7 +71,7 @@ def extract_climate_features(config):
     bioclim =  hf.query_to_df(engine,
                            config['query_dir']['climate'],
                            'bioclim_variables')
-    bioclim = bioclim[(bioclim['year_first'] == 2001) & (bioclim['year_last'] == 2010)]
+    bioclim = bioclim[(bioclim['year_first'] == 1991) & (bioclim['year_last'] == 2000)]
     bioclim.rename(columns={'tnr': 'Tnr',
                             'enr': 'Enr'},
                             inplace=True)
