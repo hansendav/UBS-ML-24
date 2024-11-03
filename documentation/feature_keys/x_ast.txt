@@ -1,0 +1,10 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","Zu_AstGr0","Zu_AstGr1","CodeBWI2","Zu_AstAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,,0,0,,,-1,
+0,"0  ","keine Astung","no pruning","keine Astung","no pruning",10,,,1,1,,20,0,9999
+1,"1  ","Astung <= 2,5 m","hight of pruning <= 2,5 m","Astung bis 2,5 m (Astungshöhe 2 m)","pruning to a height of 2.5 m (pruning height 2 m)",11,,,1,1,11,11,1,9999
+2,"2  ","Astung  2,5 - 5 m","hight of pruning 2,5- 5 m","Astung von 2,5 bis 5 m (Astungshöhe 4 m)","pruning from 2.5 to 5 m (pruning height 4 m)",12,,,1,1,11,11,2,9999
+3,"3  ","Astung  5 - 7,5 m","hight of pruning 5 - 7,5 ","Astung von 5 bis 7,5 m (Astungshöhe 6,5 m)","pruning from 5 to 7.5 m (pruning height 6.5 m)",14,,,0,1,11,11,,9999
+4,"4  ","Astung  7,5 - 10 m","hight of pruning 7,5 - 10","Astung von 7,5 bis 10 m (Astungshöhe 8,75 m)","pruning from 7.5 to 10 m (pruning height 8.75 m)",15,,,0,1,11,11,,9999
+5,"5  ","Astung 10-15 m","hight of pruning > 10 m","Astung von 10 bis 15 m (Astungshöhe 12,5 m)","pruning from 10 to 15 m (pruning height 12.5 m)",16,,,0,1,11,11,,9999
+6,"6  ","Astung >15m","hight of pruning > 10 m","Astung höher als 15 m","pruning higher than 15 m",16,,,0,1,11,11,,9999
+9,"9  ","Astung > 5 m","hight of pruning > 5 m","Astung höher als 5 m","pruning higher than 5 m ",19,,,1,0,11,11,3,9999

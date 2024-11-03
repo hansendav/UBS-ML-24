@@ -1,0 +1,7 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","oKUP","Zu_BePl","Zu_BeGr1","Zu_BeGr2","Zu_BeAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,0,0,0,1,-1,,-1,9999
+1,"1","schlagweiser Hochwald","age class high forest","schlagweiser Hochwald","even-aged high forest",11,,1,1,1,1,-1,10,12,9999
+2,"2","Plenterwald","plenter forest","Plenterwald","selection forest",21,,1,1,1,1,2,20,12,9999
+3,"3","Mittelwald","composite forest","Mittelwald","coppice with standards",31,,1,1,1,1,-1,50,34,9999
+4,"4","Niederwald","coppice forest","Niederwald","coppice forest",41,,1,1,1,1,-1,50,34,9999
+5,"5","Kurzumtrieb","short rotation forest","Kurzumtriebsplantage","short rotation coppice",51,,0,0,1,0,-1,0,0,9999

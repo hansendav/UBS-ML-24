@@ -1,0 +1,12 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","codeHilf","IcodeHilf","g1_gform","var1","var2","var3","var4","ZU_GformGr1","Zu_GformAlle","Zu_Gform3lang_sort_e","Zu_GformK3"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,,1,1,,,,,,,,-1,9999,-1,-1
+0,"0  ","Ebene","plain","Ebene","plain",0,,,1,1,"0",0,"0","1","1","1","1",100,9999,0,100
+1,"1  ","hügelig, wellig","hilly, wavy","hügelig, wellig","hilly, wavy",10,,,1,1,"1",1,"1","1","1","1","1",101,9999,1,101
+2,"2  ","Tallage","valley site","Tallage, ohne weitere Differenzierung","valley location, without further differentiation",20,,,1,1,"2",2,"2","1","0","1","0",102,9999,2,102
+3,"3  ","Hanglage","sloping site","Hanglage, ohne weitere Differenzierung","sloping site, without detailed differentiation",30,,,1,1,"5",5,"3","1","1","0","0",103,9999,3,103
+4,"4  ","Hoch-, Kamm-,Plateaulage","high altidudes site","Hoch-, Kamm oder Plateaulage","high altitude area, ridge position or plateau",40,,,1,1,"9",9,"4","1","1","1","1",104,9999,4,104
+21,"21 ","Tallage ohne Kaltluftstau","valley site/no frost pool","Tallage ohne Kaltluftstau","valley location without accumulation of cold air",21,,,1,1,"3",3,"2","0","1","0","1",102,9999,21,102
+22,"22 ","Tallage mit Kaltluftstau","valley site/ frost pool","Tallage mit Kaltluftstau","valley location with accumulation of cold air",22,,,1,1,"4",4,"2","0","1","0","1",102,9999,22,102
+31,"31 ","untere Hanglage","lower sloping site","untere Hanglage","lower sloping site",31,,,1,1,"6",6,"3","0","0","1","1",103,9999,31,103
+32,"32 ","mittlere Hanglage","middle sloping site","mittlere Hanglage","medium sloping site",32,,,1,1,"7",7,"3","0","0","1","1",103,9999,32,103
+33,"33 ","obere Hanglage","upper sloping site","obere Hanglage","upper sloping site",33,,,1,1,"8",8,"3","0","0","1","1",103,9999,33,103

@@ -1,0 +1,134 @@
+# this config file is used in the [INSERT FILE HERE]
+'Ba':
+  '10': 'Spruce'
+  '20': 'Pine'
+  '30': 'Fir'
+  '40': 'Douglas fir'
+  '50': 'Larch'
+  '100': 'Beech'
+  '110': 'Oaks'
+  '140': 'Maples'
+  '200': 'Birch'
+
+'Ast':
+  '-1': 'missing data'
+  '0': 'no pruning'
+  '1': 'pruning to a height of 2.5 m (pruning height 2 m)'
+  '2': 'pruning from 2.5 to 5 m (pruning height 4 m)'
+  '3': 'pruning from 5 to 7.5 m (pruning height 6.5 m)'
+  '4': 'pruning from 7.5 to 10 m (pruning height 8.75 m)'
+  '5': 'pruning from 10 to 15 m (pruning height 12.5 m)'
+  '6': 'pruning higher than 15 m'
+  '9': 'pruning higher than 5 m'
+
+'Be':
+  '-1': 'missing data'
+  '1': 'even-aged high forest'
+  '2': 'selection forest'
+  '3': 'coppice with standards'
+  '4': 'coppice forest'
+  '5': 'short rotation coppice'
+  
+'BestockAb':
+  '-1': 'missing data'
+  '1': 'single storied'
+  '2': 'two-layered'
+  '3': 'two-layered (remnant tree/remainder for secondary felling)'
+  '4': 'two layered (pre-regeneration)'
+  '5': 'two-layered (underplanting)'
+  '6': 'multi layered or plenter type'
+
+'Bkl':
+  '-1': 'missing data'
+  '0': 'no main stand'
+  '1': 'predominant tree'
+  '2': 'dominant tree'
+  '3': 'slightly subdominant tree'
+  '4': 'suppressed tree'
+
+'BODTYP':
+  '-9999': 'NA'
+  '299': 'F'
+  '499': 'O'
+  '899': 'R'
+  '1099': 'T'
+  '1199': 'D'
+  '1299': 'B'
+  '1499': 'L'
+  '1599': 'P'
+  '1799': 'C'
+  '1999': 'V'
+  '2299': 'S'
+  '2399': 'X'
+  '2899': 'Y'
+  '3399': 'A'
+  '3799': 'G'
+  '4499': 'M'
+  '4699': 'Ü'
+  '4899': 'I'
+  '5299': 'J'
+  '5499': 'H'
+  '5799': 'K'
+
+'Bs':
+  '-1': 'missing data'
+  '0': 'no allocation possible (selection forest)'
+  '1': 'main stand'
+  '2': 'lower storey'
+  '3': 'upper storey'
+  '4': 'regeneration under canopy of overwood'
+  '9': 'lying tree / very diagonal position'
+
+'Gform':
+  '-1': 'missing'
+  '0': 'plain'
+  '1': 'hilly, wavy'
+  '2': 'valley site'
+  '3': 'sloping site'
+  '4': 'high altidudes site'
+  '21': 'valley site/no frost pool'
+  '22': 'valley site/ frost pool'
+  '31': 'lower sloping site'
+  '32': 'middle sloping site'
+  '33': 'upper sloping site'
+
+'natHoe':
+  '-1': 'missing'
+  '1': 'planar'
+  '2': 'colline'
+  '3': 'submontane'
+  '4': 'montane'
+  '5': 'high-mont./sub-alp.'
+
+'NatNaeheHaupt':
+  '-1': 'missing'
+  '1': 'very seminaturel'
+  '2': 'seminaturel'
+  '3': 'conditional seminaturel'
+  '4': 'accentuated by culture'
+  '5': 'conditioned by culture'
+
+'Situation':
+  '-1': 'missing'
+  '0': 'none'
+  '1': 'forest fire'
+  '2': 'storm damage'
+  '3': 'snow breakage'
+  '4': 'immission damage'
+  '5': 'insect feeding'
+  '9': 'other damages'
+
+'NAEHR':
+  '-9999': 'no data'
+  '1': 'eutrophic'
+  '2': 'mesotrophic-eutrophic'
+  '3': 'mesotrophic'
+  '4': 'oligotrophic-mesotrophic'
+  '5': 'oligotrophic'
+  '6': 'dystrophic'
+
+'WASSER': 
+  '10': 'T'
+  '20': 'S'
+  '30': 'G'
+  '40': 'NA'

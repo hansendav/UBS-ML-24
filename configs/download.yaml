@@ -1,0 +1,15 @@
+# Config file for the download_dbs.py script
+# Usage: python download_dbs.py --config_file ''../configs/download.yaml'
+# Change your prefered destination folder for the download of databses here
+# Author: David Hansen 
+# Date: 27/09/2024
+
+dest_folder: '../datasets/'
+
+urls: 
+  bwi_2002: https://bwi.info/Download/de/BWI-Basisdaten/ACCESS2003/bwi20150320_alle_daten2002.zip
+  bwi_2002-2012: https://bwi.info/Download/de/BWI-Basisdaten/ACCESS2003/bwi20150320_alle_daten2002-2012.zip
+  bwi_metadata: https://bwi.info/Download/de/BWI-Basisdaten/ACCESS2003/bwi20150320_alle_metadaten.zip
+  soil: https://bwi.info/Download/de/BWI-Basisdaten/bwi2012_umwelt/bwi2012_umwelt_bodenprofil_pre.mdb.zip
+  climate: https://bwi.info/Download/de/BWI-Basisdaten/bwi2012_umwelt/bwi2012_umwelt_klima/bwi/wpkskw_1961_2013_bwi_pre.zip
+  

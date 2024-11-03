@@ -1,0 +1,8 @@
+"Icode","Acode","kurzD","kurzE","langD","langE","Sort","Farbe","g1","Zu_BestockAbGr1","Zu_BestockAbAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",,,,-1,9999
+1,"1","einschichtig","1 layer","einschichtig                       ","single storied",10,,1,10,9999
+2,"2","zweischichtig","2 layers","zweischichtig","two-layered",30,,2,20,9999
+3,"3","zweisch. (Überhälter)","2 layers (upper layer)","zweischichtig (Überhälter/Nachhiebsrest)","two-layered (remnant tree/remainder for secondary felling)",31,,2,20,9999
+4,"4","zweisch. (VorausVerjüng.)","2 layers (pre-regenerat.)","zweischichtig (Vorausverjüngung)","two layered (pre-regeneration)",32,,2,20,9999
+5,"5","zweischichtig (Unterbau)","2 layers (undercrop)","zweischichtig (Unterbau)","two-layered (underplanting)",33,,2,20,9999
+6,"6","mehrsch. o. plenterartig","multi layer o. plenter t.","mehrschichtig oder plenterartig    ","multi layered or plenter type",50,,3,30,9999

@@ -1,0 +1,5 @@
+"Icode","Acode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3"
+10,"T","T",,"terrestrische Standorte","terrestrial sites",1,,,,
+20,"S","S",,"stauwasserbeeinflusste Standorte","stagnic influences sites",2,,,,
+30,"G","G",,"grundwasserbeeinflusste Standorte","groundwater influences sites",3,,,,
+40,"NA","NA",,"keine Angabe vorhanden","no data available",4,,,,

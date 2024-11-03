@@ -1,0 +1,8 @@
+"Icode","Acode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3"
+-9999,,"-9999",,"keine Angabe","no data",7,,,,
+1,,"1",,"eutroph","eutrophic",1,,,,
+2,,"2",,"meso-eutroph","mesotrophic-eutrophic",2,,,,
+3,,"3",,"mesotroph","mesotrophic",3,,,,
+4,,"4",,"oligo-mesotroph","oligotrophic-mesotrophic",4,,,,
+5,,"5",,"oligotroph","oligotrophic",5,,,,
+6,,"6",,"dystroph","dystrophic",6,,,,

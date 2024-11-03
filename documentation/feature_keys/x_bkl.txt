@@ -1,0 +1,8 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","Zu_1","Zu_2","Zu_3","Zu_BklAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,,0,0,9999
+0,"0","kein Hauptbestand","no main storey","kein Hauptbestand","no main stand",50,,,1,1,9999
+1,"1","vorherrschend","predominant","vorherrschender Baum","predominant tree",10,,,1,1,9999
+2,"2","herrschend","dominant","herrschender Baum","dominant tree",20,,,1,1,9999
+3,"3","gering mitherrschend","subdominant","gering mitherrschender Baum","slightly subdominant tree",30,,,1,1,9999
+4,"4","beherrscht","dominated","beherrschter Baum","suppressed tree
+",40,,,1,1,9999

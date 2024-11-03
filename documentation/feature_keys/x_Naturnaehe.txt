@@ -1,0 +1,8 @@
+"ICode","ACode","KurzD","KurzE","LangD","LangE","Sort","Farbe","MinBa","MaxBa","MinHba","MaxHBa","MinExoten","MaxExoten","MinAlleHba","MaxAlleHba","Zu_NaturnaeheGr0","Zu_NaturnaeheGr1","Zu_NaturnaeheAlle"
+-1,,"Angabe fehlt","missing","Angabe fehlt","missing data",9998,,,,,,,,,,,-1,9999
+1,"1","sehr naturnah","very seminaturel","sehr naturnah","very naturalistic",11,,0.90,1.10,0.50,1.10,0.00,0.10,1.00,1.10,10,10,9999
+2,"2","naturnah","seminaturel","naturnah","naturalistic",12,,0.75,0.90,0.10,0.50,0.10,0.30,0.00,1.00,10,10,9999
+3,"3","bedingt naturnah","conditional seminaturel","bedingt naturnah","partly semi-natural
+",21,,0.50,0.75,0.00,0.10,0.30,1.10,,,,20,9999
+4,"4","kulturbetont","accentuated by culture","kulturbetont","culturally marked",22,,0.25,0.50,,,,,,,,20,9999
+5,"5","kulturbestimmt","conditioned by culture","kulturbestimmt","culturally conditioned",23,,0.00,0.25,,,,,,,,20,9999

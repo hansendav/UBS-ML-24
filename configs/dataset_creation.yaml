@@ -1,0 +1,23 @@
+# Config file for the create_bwi_ml_dataset.py script 
+# Usage: python create_bwi_ml_dataset.py 
+# Change the values of the variables below to change paths to databases and 
+# the output filename 
+# Author: David Hansen 
+# Date: 27/07/2024
+
+name: 'ml_bwi_v2'
+data_dir: '../datasets/'
+datasets: 
+  'bwi_change': 'bwi_2002-2012.mdb'
+  'bwi_2002': 'bwi_2002.mdb'
+  'bwi_metadata': 'bwi_metadata.mdb'
+  'climate': 'climate.sqlite'
+  'soil': 'soil.mdb'
+query_dir:
+  'bwi_change': '../configs/bwi_2002-2012_queries.yaml'
+  'bwi_2002': '../configs/bwi_2002_queries.yaml'
+  'climate':  '../configs/climate_queries.yaml'
+  'soil': '../configs/soil_queries.yaml'
+  
+
+
